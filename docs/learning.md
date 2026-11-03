@@ -29,4 +29,4 @@ Bu dosya bir deneyim iddiası veya ezberlenecek başvuru metni değildir. Kodu o
 
 ## Katkını açık anlat
 
-Proje yapay zekâ desteğiyle hazırlanmıştır. Hangi bölümleri incelediğini, kendin neyi değiştirdiğini ve hâlâ hangi konuları öğrendiğini açıkça belirt. Henüz yapmadığın cihaz testlerini, kod incelemelerini, mağaza yayınını veya ekip çalışmasını deneyim olarak sunma.
+Hangi bölümleri incelediğini, kendin neyi değiştirdiğini ve hâlâ hangi konuları öğrendiğini açıkça belirt. Henüz yapmadığın cihaz testlerini, kod incelemelerini, mağaza yayınını veya ekip çalışmasını deneyim olarak sunma.
