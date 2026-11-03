@@ -6,7 +6,7 @@
 
 React ile geliştirilmiş, web ve öğrenme görevlerini tek panoda düzenleyen, mobil ekranlara uyumlu bir görev takip uygulaması.
 
-> Bu çalışma, Esmanur Bayka'nın staj portfolyosu için yapay zekâ desteğiyle hazırlanmış bir öğrenme projesidir. Müşteri işi, iş deneyimi veya mağazada yayımlanmış bir mobil uygulama değildir. Örnek görevler ürünün işleyişini göstermek içindir.
+> Bu çalışma, Esmanur Bayka'nın staj portfolyosu için bir öğrenme projesidir. Müşteri işi, iş deneyimi veya mağazada yayımlanmış bir mobil uygulama değildir. Örnek görevler ürünün işleyişini göstermek içindir.
 
 ## Neler yapar?
 
