@@ -2,6 +2,8 @@
 
 **Bir sonraki adıma odaklan.**
 
+[Çalışan demo](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/focusboard/) · [Portföy](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/)
+
 React ile geliştirilmiş, web ve öğrenme görevlerini tek panoda düzenleyen, mobil ekranlara uyumlu bir görev takip uygulaması.
 
 > Bu çalışma, Esmanur Bayka'nın staj portfolyosu için yapay zekâ desteğiyle hazırlanmış bir öğrenme projesidir. Müşteri işi, iş deneyimi veya mağazada yayımlanmış bir mobil uygulama değildir. Örnek görevler ürünün işleyişini göstermek içindir.
